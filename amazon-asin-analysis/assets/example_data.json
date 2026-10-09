@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "asin": "B0DEMO1234",
+    "marketplace": "US",
+    "title": "无线蓝牙耳机 主动降噪 蓝牙5.3 单次续航8小时 带充电盒 36小时 白色",
+    "brand": "DemoAudio（示例品牌）",
+    "category": "Electronics",
+    "subCategory": "Earbud Headphones",
+    "currency": "USD",
+    "dataWindow": "2026-06-15 ~ 2026-09-07",
+    "snapshotTime": "2026-09-07 21:40 (America/Los_Angeles)",
+    "generatedAt": "2026-09-13"
+  },
+  "summary": {
+    "headline": "价格已下探到竞品中位价以下 18%，但评分 4.2 落后基准 0.25 星、评论资产只有头部竞品的 27%，当前增长靠降价和广告撑着——不先把评分和评论补起来，越降价越像在补贴转化率。",
+    "keyNumbers": [
+      {
+        "label": "售价 vs 竞品中位",
+        "value": "-15.8%",
+        "delta": -15.8,
+        "better": "neutral",
+        "hint": "$19.99 / 竞品中位 $23.75"
+      },
+      {
+        "label": "平均星级 vs 基准",
+        "value": "-0.25",
+        "delta": -0.25,
+        "unit": "pt",
+        "better": "higher",
+        "hint": "4.2 / 基准 4.45"
+      },
+      {
+        "label": "评论资产 vs 头部",
+        "value": "27%",
+        "hint": "1,234 条 / 头部竞品 4,520 条"
+      },
+      {
+        "label": "近 90 天 BSR",
+        "value": "1,340",
+        "delta": 26.4,
+        "better": "higher",
+        "hint": "从 #1,820 提升到 #1,340"
+      },
+      {
+        "label": "近 90 天月均销量",
+        "value": "800 件",
+        "delta": 14.3,
+        "better": "higher",
+        "hint": "本期 800 / 上期 700"
+      },
+      {
+        "label": "单件毛利",
+        "value": "$5.34",
+        "hint": "毛利率 26.7%"
+      }
+    ],
+    "insights": [
+      "价格已经打到 $19.99，低于竞品中位价 $23.75 约 16%：价格优势基本用尽，继续下探会直接吃掉毛利（每降 $1 约损失 5 个点的毛利率）。",
+      "评分 4.2 低于竞品中位 4.45，且近 30 天新增评论均分只有 3.9——说明口碑还在往下走，不是在修复。",
+      "负面主题集中在「连接稳定性 24%」「续航虚标 18%」「充电盒接触不良 11%」，三项合计 53%，属于产品与描述问题，不是物流偶发。",
+      "BSR 从 #1,820 提升到 #1,340（排名提升 26%）但评分同时下滑，说明这段增长是靠价格和广告买来的，转化率 9.3% 仍低于同类目健康水平。",
+      "广告销售占比 37%、TACOS 12%：广告已经在承担三成以上的成交，一旦削减预算，当前销量很可能撑不住。"
+    ],
+    "actions": [
+      {
+        "priority": "P0",
+        "action": "针对「连接稳定性 / 续航虚标 / 充电盒接触」三组差评做产品与页面整改：更新固件说明、在五点里如实标注续航测试条件、补一张配对流程实拍图。",
+        "rationale": "这三项占负面反馈 53%，且属于可修复的产品与期望管理问题，不是物流偶发。",
+        "expectedImpact": "60 天内近 30 天均分从 3.9 回到 4.2 以上，评分向 4.4 靠拢，直接改善转化率。"
+      },
+      {
+        "priority": "P0",
+        "action": "价格企稳在 $19.99，不再直接降价；改用 5% Coupon 和会员专享价控制「到手价」感知。",
+        "rationale": "价格已低于竞品中位 16%，单件毛利仅 $5.34，继续降价会击穿盈亏平衡。",
+        "expectedImpact": "保住毛利，同时维持价格感知不下滑。"
+      },
+      {
+        "priority": "P1",
+        "action": "补齐 Listing 内容缺口：A+ 页面、主图视频、主图从 5 张补到 7 张。",
+        "rationale": "当前 A+ 与视频均缺失，头部竞品 B0E3XXXXXX 两项齐全，详情页停留与转化差在这里。",
+        "expectedImpact": "同类目经验值：A+ + 视频齐全后转化率提升 8–15%。"
+      },
+      {
+        "priority": "P1",
+        "action": "广告结构调整：把预算向转化份额高的精准词集中，砍掉只有点击没有转化的泛词。",
+        "rationale": "TACOS 12%、广告销售占比 37%，泛词在稀释 ACOS。",
+        "expectedImpact": "TACOS 压到 9% 以内，单件广告成本从 $1.35 降到 $1.05。"
+      },
+      {
+        "priority": "P2",
+        "action": "评论获取：上 Vine（如仍有额度）＋ 售后卡片引导，重点补充 4–5 星真实评价。",
+        "rationale": "评论资产仅头部竞品 27%，量级差是第一屏信任的主要短板。",
+        "expectedImpact": "90 天评论数向 1,600 靠拢，拉近与第二竞品的差距。"
+      }
+    ],
+    "risks": [
+      "库存可售天数仅约 21 天（可售 560 件 / 日均 26.7 件），补货周期 35 天：按当前销售速度会在补货到仓前断货，断货会让刚提升的 BSR 迅速回落。",
+      "评分仍在往下走（近 30 天均分 3.9 < 总评分 4.2），若不干预，总评分会在 2–3 个月内跌破 4.0。",
+      "广告依赖度偏高：37% 的成交来自广告，预算收紧后销量可能出现两位数下滑。",
+      "成本结构中采购与头程占售价 30%，人民币汇率或头程运费上行会直接压缩利润。"
+    ]
+  },
+  "snapshot": {
+    "price": 19.99,
+    "listPrice": 24.99,
+    "rating": 4.2,
+    "reviewCount": 1234,
+    "bsr": 1340,
+    "bsrCategory": "Electronics",
+    "subCategoryRank": 42,
+    "variants": 6,
+    "fulfillment": "FBA",
+    "coupon": "5% Coupon（长期）",
+    "qa": 42,
+    "firstAvailable": "2024-03-18",
+    "images": 5,
+    "hasAplus": false,
+    "hasVideo": false,
+    "bulletCount": 5,
+    "seller": "DemoAudio Official（示例卖家）"
+  },
+  "listing": {
+    "notes": [
+      "标题 178 字符，堆了 3 个同类关键词，可读性偏高但无违规风险。",
+      "五点描述只写了功能，没有场景化卖点，也未回应「续航虚标」这类高频质疑。"
+    ]
+  },
+  "price": {
+    "current": 19.99,
+    "listPrice": 24.99,
+    "avg30": 19.60,
+    "min": 17.99,
+    "max": 22.99,
+    "series": [
+      { "date": "2026-06-15", "price": 22.99 },
+      { "date": "2026-06-22", "price": 22.99 },
+      { "date": "2026-06-29", "price": 21.99 },
+      { "date": "2026-07-06", "price": 21.99 },
+      { "date": "2026-07-13", "price": 20.99 },
+      { "date": "2026-07-20", "price": 17.99 },
+      { "date": "2026-07-27", "price": 18.99 },
+      { "date": "2026-08-03", "price": 19.99 },
+      { "date": "2026-08-10", "price": 19.99 },
+      { "date": "2026-08-17", "price": 20.99 },
+      { "date": "2026-08-24", "price": 19.99 },
+      { "date": "2026-08-31", "price": 19.99 },
+      { "date": "2026-09-07", "price": 19.99 }
+    ],
+    "promotions": [
+      {
+        "period": "2026-07-18 ~ 2026-07-21",
+        "type": "Prime 会员日 Lightning Deal",
+        "priceEffect": "到手 $17.99，4 天清掉约 190 件"
+      },
+      {
+        "period": "2026-08-01 起长期",
+        "type": "5% Coupon",
+        "priceEffect": "到手 $18.99"
+      }
+    ],
+    "note": "价格数据为周粒度快照，实际波动可能更频繁。"
+  },
+  "rank": {
+    "current": 1340,
+    "best": 1180,
+    "worst": 1980,
+    "category": "Electronics",
+    "series": [
+      { "date": "2026-06-15", "rank": 1820 },
+      { "date": "2026-06-22", "rank": 1900 },
+      { "date": "2026-06-29", "rank": 1750 },
+      { "date": "2026-07-06", "rank": 1680 },
+      { "date": "2026-07-13", "rank": 1590 },
+      { "date": "2026-07-20", "rank": 1980 },
+      { "date": "2026-07-27", "rank": 1520 },
+      { "date": "2026-08-03", "rank": 1440 },
+      { "date": "2026-08-10", "rank": 1390 },
+      { "date": "2026-08-17", "rank": 1410 },
+      { "date": "2026-08-24", "rank": 1360 },
+      { "date": "2026-08-31", "rank": 1350 },
+      { "date": "2026-09-07", "rank": 1340 }
+    ]
+  },
+  "sales": {
+    "monthly": [
+      { "month": "2026-04", "units": 620, "revenue": 14817 },
+      { "month": "2026-05", "units": 680, "revenue": 15633 },
+      { "month": "2026-06", "units": 700, "revenue": 15603 },
+      { "month": "2026-07", "units": 940, "revenue": 19230 },
+      { "month": "2026-08", "units": 780, "revenue": 15753 },
+      { "month": "2026-09", "units": 800, "revenue": 15992 }
+    ],
+    "method": "由同子类目 BSR 分段反推（锚点：本类目 3 个已知真实销量的在售 ASIN）",
+    "confidence": "低",
+    "note": "9 月为按前 7 天日均折算的整月预估。7 月峰值来自会员日大促，不代表常态。"
+  },
+  "reviews": {
+    "rating": 4.2,
+    "count": 1234,
+    "newLast30d": 38,
+    "ratingLast30d": 3.9,
+    "sampleSize": 100,
+    "starDistribution": { "5": 55, "4": 18, "3": 9, "2": 6, "1": 12 },
+    "history": [
+      { "date": "2026-06-15", "count": 968, "rating": 4.33 },
+      { "date": "2026-06-29", "count": 1002, "rating": 4.31 },
+      { "date": "2026-07-13", "count": 1046, "rating": 4.29 },
+      { "date": "2026-07-27", "count": 1105, "rating": 4.26 },
+      { "date": "2026-08-10", "count": 1148, "rating": 4.24 },
+      { "date": "2026-08-24", "count": 1196, "rating": 4.22 },
+      { "date": "2026-09-07", "count": 1234, "rating": 4.20 }
+    ],
+    "positiveThemes": [
+      { "theme": "音质与低音表现超出价位预期", "pct": 34, "evidence": "「这个价位低音很足」多次出现" },
+      { "theme": "充电盒小巧、便于携带", "pct": 21 },
+      { "theme": "配对速度快、连接稳定（正面反馈）", "pct": 17 },
+      { "theme": "性价比高", "pct": 15 }
+    ],
+    "negativeThemes": [
+      {
+        "theme": "蓝牙连接不稳定 / 单耳断连",
+        "pct": 24,
+        "evidence": "多为使用 1–2 周后出现，疑似固件问题"
+      },
+      {
+        "theme": "续航与标称不符（实测约 5–6 小时）",
+        "pct": 18,
+        "evidence": "主图与五点标注 8 小时，差评集中质疑描述不符"
+      },
+      {
+        "theme": "充电盒接触不良 / 放回不充电",
+        "pct": 11,
+        "evidence": "集中在近 60 天，可能与批次有关"
+      },
+      { "theme": "包装破损、缺少说明书", "pct": 7 }
+    ],
+    "trend": "总评分 4.2 仍在下滑（近 30 天均分 3.9），负面反馈中 53% 属于产品与描述问题而非物流偶发，需要产品侧整改，不是靠客服话术能压住的。"
+  },
+  "traffic": {
+    "sessions": 8600,
+    "conversion": 9.3,
+    "naturalShare": 62,
+    "adShare": 38,
+    "acos": 31,
+    "tacos": 12,
+    "adSalesShare": 37,
+    "keywords": [
+      { "keyword": "wireless earbuds", "searchVolume": 40500, "ourRank": 12, "trafficShare": 11.4, "clickShare": 6.2, "conversionShare": 4.1 },
+      { "keyword": "bluetooth headphones", "searchVolume": 33100, "ourRank": 9, "trafficShare": 9.8, "clickShare": 5.5, "conversionShare": 5.2 },
+      { "keyword": "earbuds with noise cancelling", "searchVolume": 22800, "ourRank": 15, "trafficShare": 8.1, "clickShare": 4.0, "conversionShare": 3.4 },
+      { "keyword": "wireless earbuds for running", "searchVolume": 18400, "ourRank": 22, "trafficShare": 7.6, "clickShare": 3.1, "conversionShare": 6.8 },
+      { "keyword": "bluetooth earbuds 8 hour battery", "searchVolume": 9900, "ourRank": 6, "trafficShare": 6.9, "clickShare": 7.4, "conversionShare": 8.9 },
+      { "keyword": "cheap wireless earbuds", "searchVolume": 14800, "ourRank": 8, "trafficShare": 6.2, "clickShare": 4.6, "conversionShare": 2.7 },
+      { "keyword": "earbuds with charging case", "searchVolume": 8100, "ourRank": 11, "trafficShare": 5.1, "clickShare": 4.2, "conversionShare": 4.9 },
+      { "keyword": "sports earbuds wireless", "searchVolume": 7300, "ourRank": 18, "trafficShare": 3.9, "clickShare": 2.4, "conversionShare": 3.8 },
+      { "keyword": "noise cancelling earbuds under 25", "searchVolume": 4400, "ourRank": 5, "trafficShare": 2.3, "clickShare": 6.1, "conversionShare": 7.2 },
+      { "keyword": "wireless earphones with mic", "searchVolume": 6600, "ourRank": 14, "trafficShare": 0.9, "clickShare": 1.8, "conversionShare": 1.6 }
+    ],
+    "note": "会话数与转化率来自 Seller Central 业务报告；关键词数据来自品牌分析搜索查询绩效（SQP）；广告指标来自广告后台报表。"
+  },
+  "economics": {
+    "currency": "USD",
+    "price": 19.99,
+    "referralFee": 3.00,
+    "fbaFee": 4.15,
+    "cogs": 5.20,
+    "firstLeg": 0.80,
+    "adCostPerUnit": 1.35,
+    "storage": 0.15,
+    "other": 0.00,
+    "grossProfit": 5.34,
+    "grossMargin": 26.7,
+    "netMargin": 25.9,
+    "note": "佣金按 15% 类目费率计；FBA 配送费按产品尺寸重量档（小号标准）取值；采购与头程为示例值，实际以用户成本表为准。"
+  },
+  "inventory": {
+    "availableUnits": 560,
+    "dailySales": 26.7,
+    "daysOfCover": 21.0,
+    "inboundUnits": 0,
+    "daysToRestock": 35,
+    "risk": "高",
+    "note": "按当前日均销量 26.7 件，可售 560 件约 21 天见底；补货周期 35 天且无在途库存，将在补货到仓前断货。"
+  },
+  "competitors": [
+    {
+      "asin": "B0C1AAAAAA",
+      "title": "同价位主力竞品 A",
+      "brand": "BrandA",
+      "price": 24.99,
+      "rating": 4.6,
+      "reviewCount": 3010,
+      "bsr": 980,
+      "monthlyUnits": 1500,
+      "variants": 4,
+      "fulfillment": "FBA",
+      "note": "价格高 25%，但评分与评论资产全面领先"
+    },
+    {
+      "asin": "B0D2BBBBBB",
+      "title": "同价位主力竞品 B",
+      "brand": "BrandB",
+      "price": 22.50,
+      "rating": 4.4,
+      "reviewCount": 1880,
+      "bsr": 1250,
+      "monthlyUnits": 950,
+      "variants": 6,
+      "fulfillment": "FBA",
+      "note": "变体最全，最接近本 ASIN 的定位"
+    },
+    {
+      "asin": "B0E3CCCCCC",
+      "title": "类目头部竞品 C",
+      "brand": "BrandC",
+      "price": 26.99,
+      "rating": 4.5,
+      "reviewCount": 4520,
+      "bsr": 640,
+      "monthlyUnits": 2100,
+      "variants": 8,
+      "fulfillment": "FBA",
+      "note": "评论资产是头部，A+ 与主图视频齐全"
+    },
+    {
+      "asin": "B0F4DDDDDD",
+      "title": "低价竞品 D",
+      "brand": "BrandD",
+      "price": 18.99,
+      "rating": 4.1,
+      "reviewCount": 760,
+      "bsr": 1900,
+      "monthlyUnits": 620,
+      "variants": 3,
+      "fulfillment": "FBA",
+      "note": "唯一比本 ASIN 更便宜，评分也更差"
+    }
+  ],
+  "benchmark": {
+    "label": "基于 4 个可比竞品的中位值（同子类目、价格带 ±40%）",
+    "rows": [
+      { "metric": "价格", "subject": 19.99, "benchmark": 23.75, "unit": "USD", "better": "neutral" },
+      { "metric": "平均星级", "subject": 4.20, "benchmark": 4.45, "unit": "星", "better": "higher", "tolerance": 0.1 },
+      { "metric": "评论总数", "subject": 1234, "benchmark": 2445, "unit": "条", "better": "higher" },
+      { "metric": "BSR", "subject": 1340, "benchmark": 1115, "unit": "名", "better": "lower" },
+      { "metric": "月销估算", "subject": 800, "benchmark": 1225, "unit": "件", "better": "higher" }
+    ]
+  },
+  "trendCompare": {
+    "currentLabel": "本期 2026-07-20 ~ 2026-09-07",
+    "previousLabel": "上期 2026-06-01 ~ 2026-07-19",
+    "rows": [
+      { "metric": "月均销量", "current": 800, "previous": 700, "unit": "件", "better": "higher" },
+      { "metric": "BSR（越低越好）", "current": 1340, "previous": 1820, "unit": "名", "better": "lower" },
+      { "metric": "平均星级", "current": 4.20, "previous": 4.31, "unit": "星", "better": "higher" },
+      { "metric": "评论总数", "current": 1234, "previous": 1002, "unit": "条", "better": "higher" },
+      { "metric": "售价", "current": 19.99, "previous": 22.99, "unit": "USD", "better": "higher" },
+      { "metric": "广告销售占比", "current": 37, "previous": 34, "unit": "%", "better": "lower" }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Amazon 商品详情页（示例）",
+      "type": "browser",
+      "url": "https://www.amazon.com/dp/B0DEMO1234",
+      "retrievedAt": "2026-09-07 21:40",
+      "coverage": "价格 / 星级 / 评论数 / BSR / 变体 / 优惠券 / Listing 完整度",
+      "confidence": "中"
+    },
+    {
+      "name": "价格与 BSR 历史导出（示例）",
+      "type": "export",
+      "url": "",
+      "retrievedAt": "2026-09-08 09:12",
+      "coverage": "近 90 天价格与 BSR 周粒度曲线",
+      "confidence": "高"
+    },
+    {
+      "name": "Seller Central 业务报告（示例）",
+      "type": "export",
+      "url": "",
+      "retrievedAt": "2026-09-08 09:30",
+      "coverage": "子 ASIN 销量 / 会话数 / 转化率",
+      "confidence": "高"
+    },
+    {
+      "name": "广告后台报表与品牌分析 SQP（示例）",
+      "type": "export",
+      "url": "",
+      "retrievedAt": "2026-09-08 09:45",
+      "coverage": "ACOS / TACOS / 广告销售额占比 / 关键词流量与转化份额",
+      "confidence": "高"
+    }
+  ],
+  "gaps": [
+    "缺少退货率与退货原因报表：无法判断「充电盒接触不良」的实际退货占比，可能低估质量问题的严重程度。",
+    "缺少供应商报价与头程账单：采购成本 $5.20、头程 $0.80 为示例值，毛利率只能作为量级参考。",
+    "缺少广告搜索词报表：无法定位具体是哪些泛词在拉高 ACOS，「砍泛词」这条建议需要该报表才能落到关键词级别。",
+    "竞品月销量为第三方估算：误差较大，仅用于判断量级差距，不作为精确对比依据。"
+  ],
+  "methods": [
+    "本报告为示例数据演示：ASIN B0DEMO1234、品牌与全部数值均为虚构，仅用于展示报告结构、图表形态与对比口径，不代表任何真实商品。",
+    "月销量由同子类目 BSR 分段反推，并使用本类目 3 个已知真实销量的在售 ASIN 作为锚点校准；估算误差约 ±30%，仅用于趋势与量级判断。",
+    "品类基准取 4 个可比竞品的中位数（价格带 ±40%、同子类目、同形态），不使用均值以避免极端值带偏。",
+    "BSR 为类目排名，数值越小代表排名越靠前；价格与 BSR 为周粒度快照，实际波动可能更频繁。",
+    "利润拆解未计入退货处理成本、促销折扣分摊与长期仓储费，实际净利率会低于报告值。",
+    "价格一项在品类基准表中标记为「定位参考」而非达标判定：低于竞品中位价既是引流优势，也意味着毛利空间被压缩，方向好坏取决于当前阶段目标。"
+  ]
+}
