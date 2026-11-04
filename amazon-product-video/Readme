@@ -1,0 +1,2 @@
+name: amazon-product-video
+description: 从 Amazon ASIN 一站式生成竖屏（9:16）社交媒体产品宣传视频（Remotion + 英文女声旁白）。当用户给出 Amazon ASIN 并要求"做产品视频/社媒短视频/TikTok/Reels/Shorts 宣传视频"时使用。This skill should be used when the user provides an Amazon ASIN and wants a product promo video, social media short, or listing video generated from the live product page (title, bullets, main images), including female-voice TTS narration and MP4 delivery.
